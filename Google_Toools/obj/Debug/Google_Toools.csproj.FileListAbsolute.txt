@@ -1,0 +1,13 @@
+c:\users\ebubekir\documents\visual studio 2015\Projects\Google_Toools\Google_Toools\obj\Debug\Google_Toools.csprojResolveAssemblyReference.cache
+c:\users\ebubekir\documents\visual studio 2015\Projects\Google_Toools\Google_Toools\obj\Debug\Google_Toools.Ana_menu.resources
+c:\users\ebubekir\documents\visual studio 2015\Projects\Google_Toools\Google_Toools\obj\Debug\Google_Toools.Googlesitekontrol.resources
+c:\users\ebubekir\documents\visual studio 2015\Projects\Google_Toools\Google_Toools\obj\Debug\Google_Toools.Properties.Resources.resources
+c:\users\ebubekir\documents\visual studio 2015\Projects\Google_Toools\Google_Toools\obj\Debug\Google_Toools.csproj.GenerateResource.Cache
+c:\users\ebubekir\documents\visual studio 2015\Projects\Google_Toools\Google_Toools\bin\Debug\Google_Toools.exe
+c:\users\ebubekir\documents\visual studio 2015\Projects\Google_Toools\Google_Toools\bin\Debug\Google_Toools.pdb
+c:\users\ebubekir\documents\visual studio 2015\Projects\Google_Toools\Google_Toools\bin\Debug\MetroFramework.Design.dll
+c:\users\ebubekir\documents\visual studio 2015\Projects\Google_Toools\Google_Toools\bin\Debug\MetroFramework.dll
+c:\users\ebubekir\documents\visual studio 2015\Projects\Google_Toools\Google_Toools\bin\Debug\MetroFramework.Fonts.dll
+c:\users\ebubekir\documents\visual studio 2015\Projects\Google_Toools\Google_Toools\obj\Debug\Google_Toools.exe
+c:\users\ebubekir\documents\visual studio 2015\Projects\Google_Toools\Google_Toools\obj\Debug\Google_Toools.pdb
+C:\Users\ebubekir\Documents\Visual Studio 2015\Projects\Google_Toools\Google_Toools\obj\Debug\Google_Toools.Googlecsl.resources
